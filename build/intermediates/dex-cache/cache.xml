@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0_14e969532a817f9cf532292faf0ed13625480723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_b29004afab92cb2223e5646f3fab17ff9e9fb8a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0_9027fd5f7bfdcc4e329a0489ae92779ef2d33163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0_a0c828b322a8cca1f634fb7180c016cebea3d7d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0_792334e63ef6199c68b910050e7a6c9704a0cacb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.0_b80f00cc5e440df1cdd6bab26bc5f19ff7b5717b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_bc8522fa20083b3904bc4504fc8870b3d3ace2a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0_6391604b07b71817f7f71ad31d32bc8b5de26c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0_1a70ace7b8f0072dd0116200300bbc825e777279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0_2bae22499e41ed268efcc5e1dbc175ae75a62f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0_f4a16386c5eafdf7ef21dc3ada76e7cbcec53d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0_8f16271bd101dd701d5ea5850af93f4eadc9ce8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0_fd4d1fbbe2291533b6138a27019543b1b11d4c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.1.0_c0ee73ba8e35a7d89f84314ebc40a16df004dc46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dtk10\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\dtk10\Desktop\Parse-Server-uj\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_5680a1603ecabc11024d61cf94162bb9d26ca9ea\classes.dex" />
+    </item>
+
+</items>

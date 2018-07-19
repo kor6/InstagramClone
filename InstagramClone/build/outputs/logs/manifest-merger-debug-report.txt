@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\e48d4fcb39a8b5452f94526d3500867d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2377723a973fc9cce0eeb9d93d9ae08c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:1-36:12
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2377723a973fc9cce0eeb9d93d9ae08c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2377723a973fc9cce0eeb9d93d9ae08c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserList
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:32:19-43
+activity#com.parse.starter.userFeed
+ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml:33:19-43
+uses-sdk
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\e48d4fcb39a8b5452f94526d3500867d\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\e48d4fcb39a8b5452f94526d3500867d\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2377723a973fc9cce0eeb9d93d9ae08c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2377723a973fc9cce0eeb9d93d9ae08c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dtk10\Desktop\Library\instagramClone\InstagramClone\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\1aab4687a2a9cfc3165419c101fb8c60\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\0dad0513cacfcc1fe02522f63882b062\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\e27e1611bcca5c5295e3c03a6d3cd22a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\943d88adfafcf4114acb621d2a0bdb40\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\a8cb63395dfc3cab9541b3177c016afd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\86db1be9c54ab3e922dda3ae3749dd31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\78ad8f0c2dd5e361ab6d6cd9f33a7936\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\c44800ba90a8d6c6341ced6285c24bba\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\dtk10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\c7f8d94a105c0499d90e85174cc46e6d\AndroidManifest.xml:27:13-51
